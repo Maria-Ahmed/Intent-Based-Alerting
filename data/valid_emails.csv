@@ -1,0 +1,8 @@
+,email,is_email_valid
+0,johnsmith@gmail.com,True
+1,love.love@becker-moore.net,False
+2,sammy.miller@gmail.com,True
+3,peter.parker@gmail.com,True
+4,nancy.nice@gmail.com,True
+5,lopez.lopez@malone.com,False
+6,white.white@cummings.net,True
