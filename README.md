@@ -1,8 +1,17 @@
 # Intent-Based-Alerting
 The project involves implementing an alert system based on the buying intent of contacts to assist the Business Development team increase their conversion rate. It involves, analyzing transaction data, validating email addresses, and finally sending an alert system to notify the team.
 
+## Table of Contents
+- [Overview](#overview)
+- [Setup](#setup)
+- [Customer Segmentation](#customer-segmentation)
+- [Email Validation](#email-validation)
+- [Alert System Automation](#alert-system-automation)
+- [Architecture Diagram](#architecture-diagram)
+- [Objectives](#objectives)
+
 ## Repository Structure
-Intent-Based-Alerting/
+``` SQL Intent-Based-Alerting/
 ├── data/
 │   ├── db_src.duckdb
 │   └── db.duckdb
@@ -18,27 +27,7 @@ Intent-Based-Alerting/
 ├── users.csv
 ├── requirements.txt
 └── README.md
-
-## Table of Contents
-- [Overview](#overview)
-- [Setup](#setup)
-- [Customer Segmentation](#customer-segmentation)
-- [Email Validation](#email-validation)
-- [Alert System Automation](#alert-system-automation)
-- [Architecture Diagram](#architecture-diagram)
-- [Objectives](#objectives)
-
-## Setup
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/Maria-Ahmed/Intent-Based-Alerting.git
-    cd Intent-Based-Alerting
-    ```
-2. Generate example data:
-    ```bash
-    python generate_data.py
-    ```
-3. Ensure you have the necessary CSV files (`transactions.csv` and `users.csv`) in the repository directory.
+```
 
 ## Customer Segmentation
 ### Objective
