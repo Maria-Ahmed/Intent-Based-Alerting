@@ -68,3 +68,8 @@ Send alert messages to the Business Development team for contacts with high buyi
       "subject": "<subject-goes-here>"
   }
 
+## Architecture Diagram
+Here is the architecture diagram showing how the alerting automation would be deployed in a production environment:
+
+![Architecture Diagram](architecture_diag.png)
+
